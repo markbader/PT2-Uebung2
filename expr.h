@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #ifndef _EXPR_H
 #define _EXPR_H
 
